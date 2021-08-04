@@ -9,7 +9,8 @@ This is the source code of the paper named **"Implanting Domain Knowledge into F
 - IDS17-Wa
 - IDS17-Ds
 
-Please download the all datasets from https://github.com/wilburwang520/ODNTD.
+
+Please download the all datasets from  https://github.com/wilburwang520/ODNTD/.
 
 
 ## Dependencies

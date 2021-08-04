@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acb3e70f-dd2b-4b3e-80dd-f89da9499fe9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FS_20200511" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="810a3594-f8d6-4b66-be5a-0a92180adfee" />
+  <component name="ProjectId" id="1ZIDKeDrsCfjkKdWGFelcOPQ2sH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\00-project\01-NSOD\00-code\ODNTD" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\00-project\01-NSOD\00-code\ODNTD" />
+      <recent name="D:\00-project\01-NSOD\00-code\ODNTD\data" />
+      <recent name="F:\00-project\01-NSOD\00-code\FS_20200511\data" />
+      <recent name="F:\00-project\01-NSOD\00-code\FS_20200428\data" />
+      <recent name="F:\00-project\01-NSOD\00-code\FS_20200428\SCAN" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acb3e70f-dd2b-4b3e-80dd-f89da9499fe9" name="Default Changelist" comment="" />
+      <created>1584517708294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584517708294</updated>
+      <workItem from="1584517709431" duration="40371000" />
+      <workItem from="1585190925868" duration="28043000" />
+      <workItem from="1585365146168" duration="4772000" />
+      <workItem from="1585389848046" duration="113278000" />
+      <workItem from="1586344487791" duration="8987000" />
+      <workItem from="1586601400440" duration="7677000" />
+      <workItem from="1586609185914" duration="43999000" />
+      <workItem from="1586863579635" duration="115003000" />
+      <workItem from="1587648746227" duration="3033000" />
+      <workItem from="1587652485239" duration="3626000" />
+      <workItem from="1587700626080" duration="33819000" />
+      <workItem from="1587866989503" duration="4000" />
+      <workItem from="1587872412723" duration="19014000" />
+      <workItem from="1588059560430" duration="14501000" />
+      <workItem from="1588168881477" duration="10000" />
+      <workItem from="1588169789229" duration="1860000" />
+      <workItem from="1588305474710" duration="6919000" />
+      <workItem from="1588325868465" duration="3786000" />
+      <workItem from="1588332823653" duration="1632000" />
+      <workItem from="1588334704440" duration="12603000" />
+      <workItem from="1588661781650" duration="4679000" />
+      <workItem from="1588748568232" duration="3155000" />
+      <workItem from="1588816578490" duration="14259000" />
+      <workItem from="1589166752611" duration="5550000" />
+      <workItem from="1589174293962" duration="83091000" />
+      <workItem from="1589781062826" duration="138467000" />
+      <workItem from="1590721633798" duration="10983000" />
+      <workItem from="1590888490366" duration="8589000" />
+      <workItem from="1591105447719" duration="6770000" />
+      <workItem from="1591487994650" duration="14154000" />
+      <workItem from="1591519786175" duration="1808000" />
+      <workItem from="1592136737944" duration="4913000" />
+      <workItem from="1592179495449" duration="24000" />
+      <workItem from="1592707563501" duration="1586000" />
+      <workItem from="1592788831172" duration="8000" />
+      <workItem from="1596248444994" duration="1458000" />
+      <workItem from="1596615947987" duration="11224000" />
+      <workItem from="1600327492961" duration="1299000" />
+      <workItem from="1600693848137" duration="26684000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1585824384809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1585824384809" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587790774700">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1587790774700" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590895012068">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1590895012068" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1592788837374">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592788837374" />
+    <state width="1493" height="247" key="GridCell.Tab.0.bottom" timestamp="1592709159103">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="247" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592709159103" />
+    <state width="1493" height="247" key="GridCell.Tab.0.center" timestamp="1592709159103">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="247" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592709159103" />
+    <state width="1493" height="247" key="GridCell.Tab.0.left" timestamp="1592709159103">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="247" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592709159103" />
+    <state width="1493" height="247" key="GridCell.Tab.0.right" timestamp="1592709159103">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="247" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592709159103" />
+    <state width="1493" height="247" key="GridCell.Tab.1.bottom" timestamp="1592709159119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="247" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592709159119" />
+    <state width="1493" height="247" key="GridCell.Tab.1.center" timestamp="1592709159119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="247" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592709159119" />
+    <state width="1493" height="247" key="GridCell.Tab.1.left" timestamp="1592709159103">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="247" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592709159103" />
+    <state width="1493" height="247" key="GridCell.Tab.1.right" timestamp="1592709159119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="247" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592709159119" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1586444254486">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586444254486" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1592137595908">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1592137595908" />
+    <state x="377" y="112" width="782" height="600" key="find.popup" timestamp="1589294103028">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="377" y="112" width="782" height="600" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1589294103028" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/test_lap_score.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="np.isnan(data).any()" language="Python" />
+        <watch expression="(np.array(nume_list)-cate_fs_num)" language="Python" />
+        <watch expression="np.hstack((gram_removeID,tj_removeID))" language="Python" />
+        <watch expression="minSE_temp.append(1)" language="Python" />
+        <watch expression="dorp_list" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FS$Utils.coverage" NAME="Utils Coverage Results" MODIFIED="1587791244845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MIX" />
+    <SUITE FILE_PATH="coverage/FS_20200511$Utils.coverage" NAME="Utils Coverage Results" MODIFIED="1591492723743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MIX" />
+    <SUITE FILE_PATH="coverage/FS$run_CINFO.coverage" NAME="run_CINFO Coverage Results" MODIFIED="1587826460934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FS$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1585402471299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ODNTD$main.coverage" NAME="main Coverage Results" MODIFIED="1600906641989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FS$single_FS.coverage" NAME="single_FS Coverage Results" MODIFIED="1584778341047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FS_20200428$Utils.coverage" NAME="Utils Coverage Results" MODIFIED="1588126113177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MIX" />
+    <SUITE FILE_PATH="coverage/FS_20200428$run_CINFO.coverage" NAME="run_CINFO Coverage Results" MODIFIED="1588669211082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FS_20200428$payload_FS.coverage" NAME="payload_FS Coverage Results" MODIFIED="1588399123647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FS$test_lap_score.coverage" NAME="test_lap_score Coverage Results" MODIFIED="1584777835772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/skfeature/example" />
+    <SUITE FILE_PATH="coverage/FS_20200426$run_CINFO.coverage" NAME="run_CINFO Coverage Results" MODIFIED="1587947731565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FS$utils__1_.coverage" NAME="utils (1) Coverage Results" MODIFIED="1587790584429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../01-data/NSL_KDD" />
+    <SUITE FILE_PATH="coverage/FS_20200511$run_CINFO.coverage" NAME="run_CINFO Coverage Results" MODIFIED="1591509611191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FS_20200511$3D.coverage" NAME="3D Coverage Results" MODIFIED="1592708934991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FS_20200428$utils.coverage" NAME="utils Coverage Results" MODIFIED="1588124078754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FS_20200507$run_CINFO.coverage" NAME="run_CINFO Coverage Results" MODIFIED="1589173933618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ODNTD$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1600758668183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FS$utils.coverage" NAME="utils Coverage Results" MODIFIED="1587649943486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FS_20200507$payload_FS.coverage" NAME="payload_FS Coverage Results" MODIFIED="1588819463110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FS$test.coverage" NAME="test Coverage Results" MODIFIED="1585403923133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
